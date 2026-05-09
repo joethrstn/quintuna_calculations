@@ -1,0 +1,20 @@
+LTspice 24.1.5 for Windows
+Circuit: C:\Users\joeth\Github\full_bridge_converter\Draft1.net
+Start Time: Mon Sep  1 12:53:16 2025
+solver = Alternate
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+.step lhar=1e-07
+.step lhar=1.58489319246111e-07
+.step lhar=2.51188643150958e-07
+.step lhar=3.98107170553497e-07
+.step lhar=6.30957344480193e-07
+.step lhar=1e-06
+Total elapsed time: 0.092 seconds.
+
+Files loaded:
+C:\Users\joeth\Github\full_bridge_converter\Draft1.net
+
